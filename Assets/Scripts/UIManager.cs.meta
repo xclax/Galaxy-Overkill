@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37ab19812139dd34092f24f9ec541923
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - restartLevelText: {instanceID: 0}
+  - emptyLifeSprite: {fileID: 21300002, guid: fed24bd82cefc0c4a8ef64dab6231b53, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

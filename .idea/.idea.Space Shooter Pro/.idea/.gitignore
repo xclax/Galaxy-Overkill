@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Space Shooter Pro.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Projects\Unity\Space Shooter Pro\.idea\.idea.Space Shooter Pro\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
