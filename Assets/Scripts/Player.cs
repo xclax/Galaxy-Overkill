@@ -91,6 +91,7 @@ public class Player : MonoBehaviour
         {
             _spawnManager.OnPlayerDeath();
             Destroy(gameObject);
+            _uiManager.CheckForBestScore(score);
             explosionSound.enabled = true;
             explosionSound.Play();
         }
