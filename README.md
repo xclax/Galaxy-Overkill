@@ -1,2 +1,2 @@
 # galaxy-overkill
- Space shooter game mande in Unity
+ Space shooter game made in Unity
