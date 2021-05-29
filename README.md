@@ -17,4 +17,4 @@ P -> Pause Menu
 
 
 
-Play the game in itch.io: https://cl4x.itch.io/galaxy-overkill
+Play the game on itch.io: https://cl4x.itch.io/galaxy-overkill
